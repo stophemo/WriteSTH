@@ -1,0 +1,3 @@
+rootProject.name = 'WriteSTH'
+
+include 'xxx-server', 'xxx-web'

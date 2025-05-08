@@ -1,0 +1,11 @@
+// build.gradle (根项目)
+
+allprojects {
+    group = 'com.writesth'
+    version = '1.0.0'
+
+    // 仅提供仓库，不强制子模块使用
+    repositories {
+        mavenCentral()
+    }
+}
